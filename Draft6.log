@@ -1,0 +1,12 @@
+C:\Users\klpui\Documents\LTspice\Draft6.net(19): Expected device instantiation or directive here.
+{pot1*pot1dev/100}
+^^^^^^^^^^^^^^^^^^
+C:\Users\klpui\Documents\LTspice\Draft6.net(20): Expected device instantiation or directive here.
+{pot1-pot1*pot1dev/100}
+^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\klpui\Documents\LTspice\Draft6.net(21): Expected device instantiation or directive here.
+{pot2*pot2dev/100}
+^^^^^^^^^^^^^^^^^^
+C:\Users\klpui\Documents\LTspice\Draft6.net(22): Expected device instantiation or directive here.
+{pot2-pot2*pot2dev/100}
+^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,137 @@
+LTspice 24.1.1 for Windows
+Circuit: C:\Users\klpui\Documents\LTspice\Draft7 baxandall tone control circuit.net
+Start Time: Thu Mar  6 12:02:14 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node n007 is floating.
+
+.OP point found by inspection.
+.step pot2dev=1 pot1dev=1
+.step pot2dev=10.8 pot1dev=1
+.step pot2dev=20.6 pot1dev=1
+.step pot2dev=30.4 pot1dev=1
+.step pot2dev=40.2 pot1dev=1
+.step pot2dev=50 pot1dev=1
+.step pot2dev=59.8 pot1dev=1
+.step pot2dev=69.6 pot1dev=1
+.step pot2dev=79.4 pot1dev=1
+.step pot2dev=89.2 pot1dev=1
+.step pot2dev=99 pot1dev=1
+.step pot2dev=1 pot1dev=10.8
+.step pot2dev=10.8 pot1dev=10.8
+.step pot2dev=20.6 pot1dev=10.8
+.step pot2dev=30.4 pot1dev=10.8
+.step pot2dev=40.2 pot1dev=10.8
+.step pot2dev=50 pot1dev=10.8
+.step pot2dev=59.8 pot1dev=10.8
+.step pot2dev=69.6 pot1dev=10.8
+.step pot2dev=79.4 pot1dev=10.8
+.step pot2dev=89.2 pot1dev=10.8
+.step pot2dev=99 pot1dev=10.8
+.step pot2dev=1 pot1dev=20.6
+.step pot2dev=10.8 pot1dev=20.6
+.step pot2dev=20.6 pot1dev=20.6
+.step pot2dev=30.4 pot1dev=20.6
+.step pot2dev=40.2 pot1dev=20.6
+.step pot2dev=50 pot1dev=20.6
+.step pot2dev=59.8 pot1dev=20.6
+.step pot2dev=69.6 pot1dev=20.6
+.step pot2dev=79.4 pot1dev=20.6
+.step pot2dev=89.2 pot1dev=20.6
+.step pot2dev=99 pot1dev=20.6
+.step pot2dev=1 pot1dev=30.4
+.step pot2dev=10.8 pot1dev=30.4
+.step pot2dev=20.6 pot1dev=30.4
+.step pot2dev=30.4 pot1dev=30.4
+.step pot2dev=40.2 pot1dev=30.4
+.step pot2dev=50 pot1dev=30.4
+.step pot2dev=59.8 pot1dev=30.4
+.step pot2dev=69.6 pot1dev=30.4
+.step pot2dev=79.4 pot1dev=30.4
+.step pot2dev=89.2 pot1dev=30.4
+.step pot2dev=99 pot1dev=30.4
+.step pot2dev=1 pot1dev=40.2
+.step pot2dev=10.8 pot1dev=40.2
+.step pot2dev=20.6 pot1dev=40.2
+.step pot2dev=30.4 pot1dev=40.2
+.step pot2dev=40.2 pot1dev=40.2
+.step pot2dev=50 pot1dev=40.2
+.step pot2dev=59.8 pot1dev=40.2
+.step pot2dev=69.6 pot1dev=40.2
+.step pot2dev=79.4 pot1dev=40.2
+.step pot2dev=89.2 pot1dev=40.2
+.step pot2dev=99 pot1dev=40.2
+.step pot2dev=1 pot1dev=50
+.step pot2dev=10.8 pot1dev=50
+.step pot2dev=20.6 pot1dev=50
+.step pot2dev=30.4 pot1dev=50
+.step pot2dev=40.2 pot1dev=50
+.step pot2dev=50 pot1dev=50
+.step pot2dev=59.8 pot1dev=50
+.step pot2dev=69.6 pot1dev=50
+.step pot2dev=79.4 pot1dev=50
+.step pot2dev=89.2 pot1dev=50
+.step pot2dev=99 pot1dev=50
+.step pot2dev=1 pot1dev=59.8
+.step pot2dev=10.8 pot1dev=59.8
+.step pot2dev=20.6 pot1dev=59.8
+.step pot2dev=30.4 pot1dev=59.8
+.step pot2dev=40.2 pot1dev=59.8
+.step pot2dev=50 pot1dev=59.8
+.step pot2dev=59.8 pot1dev=59.8
+.step pot2dev=69.6 pot1dev=59.8
+.step pot2dev=79.4 pot1dev=59.8
+.step pot2dev=89.2 pot1dev=59.8
+.step pot2dev=99 pot1dev=59.8
+.step pot2dev=1 pot1dev=69.6
+.step pot2dev=10.8 pot1dev=69.6
+.step pot2dev=20.6 pot1dev=69.6
+.step pot2dev=30.4 pot1dev=69.6
+.step pot2dev=40.2 pot1dev=69.6
+.step pot2dev=50 pot1dev=69.6
+.step pot2dev=59.8 pot1dev=69.6
+.step pot2dev=69.6 pot1dev=69.6
+.step pot2dev=79.4 pot1dev=69.6
+.step pot2dev=89.2 pot1dev=69.6
+.step pot2dev=99 pot1dev=69.6
+.step pot2dev=1 pot1dev=79.4
+.step pot2dev=10.8 pot1dev=79.4
+.step pot2dev=20.6 pot1dev=79.4
+.step pot2dev=30.4 pot1dev=79.4
+.step pot2dev=40.2 pot1dev=79.4
+.step pot2dev=50 pot1dev=79.4
+.step pot2dev=59.8 pot1dev=79.4
+.step pot2dev=69.6 pot1dev=79.4
+.step pot2dev=79.4 pot1dev=79.4
+.step pot2dev=89.2 pot1dev=79.4
+.step pot2dev=99 pot1dev=79.4
+.step pot2dev=1 pot1dev=89.2
+.step pot2dev=10.8 pot1dev=89.2
+.step pot2dev=20.6 pot1dev=89.2
+.step pot2dev=30.4 pot1dev=89.2
+.step pot2dev=40.2 pot1dev=89.2
+.step pot2dev=50 pot1dev=89.2
+.step pot2dev=59.8 pot1dev=89.2
+.step pot2dev=69.6 pot1dev=89.2
+.step pot2dev=79.4 pot1dev=89.2
+.step pot2dev=89.2 pot1dev=89.2
+.step pot2dev=99 pot1dev=89.2
+.step pot2dev=1 pot1dev=99
+.step pot2dev=10.8 pot1dev=99
+.step pot2dev=20.6 pot1dev=99
+.step pot2dev=30.4 pot1dev=99
+.step pot2dev=40.2 pot1dev=99
+.step pot2dev=50 pot1dev=99
+.step pot2dev=59.8 pot1dev=99
+.step pot2dev=69.6 pot1dev=99
+.step pot2dev=79.4 pot1dev=99
+.step pot2dev=89.2 pot1dev=99
+.step pot2dev=99 pot1dev=99
+Total elapsed time: 1.825 seconds.
+
+Files loaded:
+C:\Users\klpui\Documents\LTspice\Draft7 baxandall tone control circuit.net
+
